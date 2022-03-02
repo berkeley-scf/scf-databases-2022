@@ -6,7 +6,7 @@ title: 'Databases and SQL workshop'
 
 # 1 Preparation
 
-# 1.1 Required
+## 1.1 Required
 
 - Install either the RSQLite R package or the sqlite3 Python package on your laptop.
 - Download [this data file](http://www.stat.berkeley.edu/share/paciorek/stackoverflow-2016.db) onto your laptop.
