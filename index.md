@@ -21,9 +21,13 @@ For replicating the demo of creating a database (either in SQLite or PostgreSQL)
 
 # 2 Schedule 
 
-- 9 am - 10 am: (optional) review/introduction to databases, database schema and normalization, and very basic SQL
-- 10 am - 11 am: various SQL topics (GROUP BY, JOIN, strings, dates)
-- 11 am - noon: set operations and subqueries
+- 9 am - 10 am: (Session 1; optional) review/introduction to databases, database schema and normalization, and very basic SQL
+- 10 am - 11 am: (Session 2) various SQL topics (GROUP BY, JOIN, strings, dates)
+- 11 am - noon: (Session 3) set operations and subqueries
 - noon - 1 pm: lunch (on your own
-- 1 pm - 2:30 pm: window functions, practice problems, indexes, efficiency
-- 2:30 pm - 3:30 pm: database administration demo
+- 1 pm - 2:30 pm: (Session 4) window functions, practice problems, indexes, efficiency
+- 2:30 pm - 3:30 pm: (Session 5) database administration demo
+
+# 3 Material
+
+The tabs at the top will guide us through the material to be covered in the workshop. We'll primarily be accessing the material in the [SCF Databases tutorial](https://berkeley-scf.github.io/tutorial-databases), interspersed with time to work on SQL practice problems.
