@@ -9,7 +9,7 @@ This document lists the topics to be discussed in the second session of the work
 
 Topics:
 
-- [Grouping/stratification](https://berkeley-scf.github.io/tutorial-databases/#2-background)
+- [Grouping/stratification](https://berkeley-scf.github.io/tutorial-databases/sql#13-grouping--stratifying-group-by)
 - [Merging tables (joins)](https://berkeley-scf.github.io/tutorial-databases/sql#14-joins)
 - [Creating temporary tables](https://berkeley-scf.github.io/tutorial-databases/sql#15-temporary-tables-and-views)
 - [Strings](https://berkeley-scf.github.io/tutorial-databases/sql#22-string-processing-and-creating-new-fields) and [dates/times](https://berkeley-scf.github.io/tutorial-databases/sql#23-dates-and-times)
